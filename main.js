@@ -36,4 +36,7 @@ console.log("Script attached");
 // TODO: write a function called "show" which creates a new div with an alerting message to the user with this message
 // -> "Clicking the button triggers the onclick event, which calls the JS function show()... which alerts the user"
 // This div should be a 'modal' that covers the main content on the screen
-// BONUS: The modal popup should be able to be closed. Refactor for this functionality
+// BONUS: The modal popup should be able to be closed. Refactor for this functionalit
+
+
+
